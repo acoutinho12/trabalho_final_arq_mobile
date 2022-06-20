@@ -26,6 +26,9 @@ let initialiseUI = function () {
 
 }
 
+window.addEventListener('online', () => botaoInstalar.removeAttribute('hidden'));
+window.addEventListener('offline', () => botaoInstalar.setAttribute('hidden', true));
+
 window.addEventListener('beforeinstallprompt', gravarEvento);
 
 function gravarEvento(evt) {
