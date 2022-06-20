@@ -8,6 +8,8 @@
 
 A temática escolhida foi um aplicativo de listagem de herois do jogo [Dota 2](https://www.dota2.com/home)
 
+A aplicação foi hospedada utilizando do [Firebase Hosting](https://firebase.google.com/docs/hosting/quickstart?hl=pt-br) e pode ser encontrada no link [Dota 2 App](https://trabalho-final-arq-mobile.web.app/)
+
 ## Roteiro
 
 Baseado no estudo de caso desenvolvido em sala (BurguerApp, cujo o código está disponível no Canvas para download) você deve construir um PWA com outra temática (saúde, gastronomia, música, carro, cultura, arte etc.) que contemple:
