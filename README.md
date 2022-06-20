@@ -4,6 +4,10 @@
 
 - André Luis Barbosa Coutinho - 138796
 
+## Temática
+
+A temática escolhida foi um aplicativo de listagem de herois do jogo [Dota 2](https://www.dota2.com/home)
+
 ## Roteiro
 
 Baseado no estudo de caso desenvolvido em sala (BurguerApp, cujo o código está disponível no Canvas para download) você deve construir um PWA com outra temática (saúde, gastronomia, música, carro, cultura, arte etc.) que contemple:
